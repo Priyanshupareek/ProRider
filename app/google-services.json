@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395366591363",
+    "firebase_url": "https://prorider-263200.firebaseio.com",
+    "project_id": "prorider-263200",
+    "storage_bucket": "prorider-263200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395366591363:android:008cecd6708d49d1da24b6",
+        "android_client_info": {
+          "package_name": "com.startup.prorider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395366591363-ke19e95c711osv0ij6v9lc8dmftfvf1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1vK1EuRBTHExlX2w6clkeoijASBaB00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395366591363-ke19e95c711osv0ij6v9lc8dmftfvf1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
